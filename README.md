@@ -1,13 +1,13 @@
 # JMeter
 
-#Resumo geral da Ferramenta com Mind Maps
+## Resumo geral da Ferramenta com Mind Maps
 
 \MindMap-ResumoJmeter\ResumoJMeter.mm
 
-#Exemplos de algumas estruturas
-## Exemplo Variavel Entre Grupos de Usuários com OAuth2
+## Exemplos de algumas estruturas
+### Exemplo Variavel Entre Grupos de Usuários com OAuth2
 
-1_VariavelEntreGruposDeUsuarios.jmx
+\Exemplos-JMX\1_VariavelEntreGruposDeUsuarios.jmx
 
 Utilizando API's públicas do TDC para efeito de exemplo 
 
